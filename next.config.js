@@ -1,6 +1,6 @@
 module.exports = {
   // Other configurations
-  basePath: '',
+  basePath: '/',
   
   async rewrites() {
     return [
