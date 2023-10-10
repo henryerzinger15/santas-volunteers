@@ -20,7 +20,7 @@ function CorporateSponsors() {
         </p>
         <img
           style={{ width: "100%", alignSelf: 'flex-start' }}
-          src="Santa's Volunteers - Corporate Sponsor Logos-04.png"
+          src="Santas-Volunteers-Corporate-Sponsor-Logos-04.png"
         />
       </div>
     </Layout>
