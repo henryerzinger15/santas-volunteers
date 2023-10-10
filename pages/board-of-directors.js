@@ -61,9 +61,7 @@ function CorporateSponsors() {
               <br />
               Michael Grasso
               <br />
-              Catherine Guthrie
               <br />
-              Warren Guthrie
               <br />
               Jenny Haljun
               <br />
@@ -83,9 +81,6 @@ function CorporateSponsors() {
               <br />
               Sandy Kolkey
               <br />
-              Hillary Larson
-              <br />
-              Scott Larson
               <br />
               William L. Lederer
               <br />
@@ -94,8 +89,6 @@ function CorporateSponsors() {
               Gary Martin
               <br />
               Sara McGee
-              <br />
-              Jan McNicholas
               <br />
               Paul M. McNicholas
               <br />
@@ -117,7 +110,12 @@ function CorporateSponsors() {
               <br />
               Sean Witty
               <br />
-              Jerry Zimmerman
+              Evan Hunter
+              <br />
+              Mike Purcell
+              <br />
+              Steven Keller
+              <br />
             </p>
           </div>
         </div>
