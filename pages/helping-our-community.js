@@ -8,23 +8,23 @@ function HelpingOurCommunity() {
                 <h1>Helping Our Community</h1>
 
                 <div id="home-left">
-                    <img src="note-from-father-matt.jpg" />
+                    <img src="/note-from-father-matt.jpg" />
                 </div>
 
                 <div id="home-right">
-                    <img src="note-from-diana-vidal.jpg" />
+                    <img src="/note-from-diana-vidal.jpg" />
                 </div>
 
                 <div id="home-left">
-                    <img src="malachy-thank-you-note-1.jpg" />
+                    <img src="/malachy-thank-you-note-1.jpg" />
                 </div>
 
                 <div id="home-right">
-                    <img src="malachy-thank-you-note-2.jpg" />
+                    <img src="/malachy-thank-you-note-2.jpg" />
                 </div>
 
                 <div id="home-left">
-                    <img src="malachy-thank-you-note-3.jpg" />
+                    <img src="/malachy-thank-you-note-3.jpg" />
                 </div>
 
             </div>
