@@ -26,7 +26,7 @@ function SantaNav() {
       <Navbar expand="lg" className="santa-nav" >
         <Link className="mr-auto" href="/" passHref>
           <Navbar.Brand>
-            <img src="sv-logo.png" alt="Santa's Volunteers" width="150px" />
+            <img src="/sv-logo.png" alt="Santa's Volunteers" width="150px" />
           </Navbar.Brand>
         </Link>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
