@@ -14,14 +14,14 @@ function SantaFoot() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src="facebook.svg"></img>
+              <img src="/facebook.svg"></img>
             </a>
             <a
               href="https://www.instagram.com/santas.volunteers/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <img src="instagram.svg"></img>
+              <img src="/instagram.svg"></img>
             </a>
           <div className="footer-links">
             <a href="corporate-donors"><p style={{letterSpacing: "0.25px"}}>CORPORATE DONORS</p></a>
